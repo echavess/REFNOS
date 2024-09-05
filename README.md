@@ -13,3 +13,4 @@ The conversion phase is handled by the python script: 0_convert_to_antelope.py.
 
 ``python 0_convert_to_antelope.py -D [directory with data] -F [service run file] ``
 
+![Daily Storage for Service Run 1 in Cartago, Costa Rica](Daily_Data_Storage.png)
