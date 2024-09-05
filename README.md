@@ -1,4 +1,4 @@
-![Alt Text](./images/REFNOS_logo.png)
+![Alt Text](.REFNOS_logo.png)
 
 # REFNOS
 Collection of python codes and scripts for processing miniseed files from SmartSolo IGU-16HR-3C. 
