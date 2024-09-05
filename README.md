@@ -11,3 +11,5 @@ we add other variables like: Channel, year, month, day and julian day.
 The data is organized in directories with the next structure: [year/julian_day], as it is being prepared for Antelope databases. 
 The conversion phase is handled by the python script: 0_convert_to_antelope.py. 
 
+``python 0_convert_to_antelope.py -D [directory with data] -F [service run file] ``
+
